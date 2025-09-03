@@ -1,0 +1,463 @@
+address-object ipv4 M365-WAN-Common-20.190.128.0/18 20.190.128.0/18
+address-object ipv4 M365-WAN-Common-20.231.128.0/19 20.231.128.0/19
+address-object ipv4 M365-WAN-Exchange-23.103.160.0/20 23.103.160.0/20
+address-object ipv4 M365-WAN-Common-52.244.37.168/32 52.244.37.168/32
+address-object ipv4 M365-WAN-Exchange-40.107.0.0/16 40.107.0.0/16
+address-object ipv4 M365-WAN-Exchange-13.107.6.152/31 13.107.6.152/31
+address-object ipv4 M365-WAN-Exchange-204.79.197.215/32 204.79.197.215/32
+address-object ipv4 M365-WAN-Common-20.20.32.0/19 20.20.32.0/19
+address-object ipv4 M365-WAN-Skype-52.122.0.0/15 52.122.0.0/15
+address-object ipv4 M365-WAN-SharePoint-104.146.128.0/17 104.146.128.0/17
+address-object ipv4 M365-WAN-Common-13.107.9.192/32 13.107.9.192/32
+address-object ipv4 M365-WAN-SharePoint-52.104.0.0/14 52.104.0.0/14
+address-object ipv4 M365-WAN-Exchange-131.253.33.215/32 131.253.33.215/32
+address-object ipv4 M365-WAN-Skype-52.112.0.0/14 52.112.0.0/14
+address-object ipv4 M365-WAN-Common-13.107.18.15/32 13.107.18.15/32
+address-object ipv4 M365-WAN-Common-40.126.0.0/18 40.126.0.0/18
+address-object ipv4 M365-WAN-Exchange-150.171.32.0/22 150.171.32.0/22
+address-object ipv4 M365-WAN-Exchange-40.92.0.0/15 40.92.0.0/15
+address-object ipv4 M365-WAN-SharePoint-40.108.128.0/17 40.108.128.0/17
+address-object ipv4 M365-WAN-Exchange-13.107.18.10/31 13.107.18.10/31
+address-object ipv4 M365-WAN-Exchange-40.96.0.0/13 40.96.0.0/13
+address-object ipv4 M365-WAN-Exchange-132.245.0.0/16 132.245.0.0/16
+address-object ipv4 M365-WAN-SharePoint-150.171.40.0/22 150.171.40.0/22
+address-object ipv4 M365-WAN-Exchange-40.104.0.0/15 40.104.0.0/15
+address-object ipv4 M365-WAN-SharePoint-13.107.136.0/22 13.107.136.0/22
+address-object ipv4 M365-WAN-Common-13.107.140.6/32 13.107.140.6/32
+address-object ipv4 M365-WAN-Exchange-13.107.128.0/22 13.107.128.0/22
+address-object ipv4 M365-WAN-Exchange-52.100.0.0/14 52.100.0.0/14
+address-object ipv4 M365-WAN-Exchange-52.96.0.0/14 52.96.0.0/14
+address-object ipv4 M365-WAN-Exchange-104.47.0.0/17 104.47.0.0/17
+address-object ipv4 M365-WAN-Common-52.108.0.0/14 52.108.0.0/14
+address-object ipv4 M365-WAN-Common-13.107.6.192/32 13.107.6.192/32
+address-object ipv4 M365-WAN-Common-13.107.6.171/32 13.107.6.171/32
+address-object ipv4 M365-WAN-Exchange-52.238.78.88/32 52.238.78.88/32
+address-object fqdn M365-WAN-Common-appsforoffice.microsoft.com appsforoffice.microsoft.com
+address-object fqdn M365-WAN-Common-mem.gfx.ms mem.gfx.ms
+address-object fqdn M365-WAN-Common-crl.microsoft.com crl.microsoft.com
+address-object fqdn M365-WAN-Common-eus-www.sway-extensions.com eus-www.sway-extensions.com
+address-object fqdn M365-WAN-SharePoint-oneclient.sfx.ms oneclient.sfx.ms
+address-object fqdn M365-WAN-SharePoint-g.live.com g.live.com
+address-object fqdn M365-WAN-Common-*.powerapps.com *.powerapps.com
+address-object fqdn M365-WAN-Common-autologon.microsoftazuread-sso.com autologon.microsoftazuread-sso.com
+address-object fqdn M365-WAN-Common-*.appex.bing.com *.appex.bing.com
+address-object fqdn M365-WAN-Common-wus-www.sway-extensions.com wus-www.sway-extensions.com
+address-object fqdn M365-WAN-Common-device.login.microsoftonline.com device.login.microsoftonline.com
+address-object fqdn M365-WAN-Common-officeapps.live.com officeapps.live.com
+address-object fqdn M365-WAN-Common-*.onenote.com *.onenote.com
+address-object fqdn M365-WAN-Common-www.digicert.com www.digicert.com
+address-object fqdn M365-WAN-Common-*.informationprotection.azure.com *.informationprotection.azure.com
+address-object fqdn M365-WAN-Common-*.microsoftonline-p.com *.microsoftonline-p.com
+address-object fqdn M365-WAN-Common-amp.azure.net amp.azure.net
+address-object fqdn M365-WAN-Common-dgps.support.microsoft.com dgps.support.microsoft.com
+address-object fqdn M365-WAN-Common-crl.identrust.com crl.identrust.com
+address-object fqdn M365-WAN-Skype-mlccdnprod.azureedge.net mlccdnprod.azureedge.net
+address-object fqdn M365-WAN-Common-activity.windows.com activity.windows.com
+address-object fqdn M365-WAN-SharePoint-*.sharepoint.com *.sharepoint.com
+address-object fqdn M365-WAN-Common-*.msftidentity.com *.msftidentity.com
+address-object fqdn M365-WAN-Common-signup.live.com signup.live.com
+address-object fqdn M365-WAN-Common-www.microsoft365.com www.microsoft365.com
+address-object fqdn M365-WAN-Common-admin.microsoft.com admin.microsoft.com
+address-object fqdn M365-WAN-Common-c.bing.com c.bing.com
+address-object fqdn M365-WAN-Skype-*.teams.cloud.microsoft *.teams.cloud.microsoft
+address-object fqdn M365-WAN-Common-ocsp.digicert.com ocsp.digicert.com
+address-object fqdn M365-WAN-Common-apis.live.net apis.live.net
+address-object fqdn M365-WAN-Common-*.office.net *.office.net
+address-object fqdn M365-WAN-Common-mscrl.microsoft.com mscrl.microsoft.com
+address-object fqdn M365-WAN-Common-www.microsoft.com www.microsoft.com
+address-object fqdn M365-WAN-Common-*.yammer.com *.yammer.com
+address-object fqdn M365-WAN-Common-sway.com sway.com
+address-object fqdn M365-WAN-Common-login.microsoftonline.com login.microsoftonline.com
+address-object fqdn M365-WAN-Exchange-*.mail.protection.outlook.com *.mail.protection.outlook.com
+address-object fqdn M365-WAN-Common-purview.microsoft.com purview.microsoft.com
+address-object fqdn M365-WAN-Common-*.appex-rf.msn.com *.appex-rf.msn.com
+address-object fqdn M365-WAN-Common-cert.int-x3.letsencrypt.org cert.int-x3.letsencrypt.org
+address-object fqdn M365-WAN-Common-officespeech.platform.bing.com officespeech.platform.bing.com
+address-object fqdn M365-WAN-Common-*.flow.microsoft.com *.flow.microsoft.com
+address-object fqdn M365-WAN-SharePoint-*.search.production.us.trafficmanager.net *.search.production.us.trafficmanager.net
+address-object fqdn M365-WAN-Skype-*.streaming.mediaservices.windows.net *.streaming.mediaservices.windows.net
+address-object fqdn M365-WAN-Common-*.cortana.ai *.cortana.ai
+address-object fqdn M365-WAN-Common-*cdn.onenote.net *cdn.onenote.net
+address-object fqdn M365-WAN-Common-*.aria.microsoft.com *.aria.microsoft.com
+address-object fqdn M365-WAN-Common-eus-www.sway-cdn.com eus-www.sway-cdn.com
+address-object fqdn M365-WAN-Common-platform.linkedin.com platform.linkedin.com
+address-object fqdn M365-WAN-Skype-aka.ms aka.ms
+address-object fqdn M365-WAN-Common-*.activity.windows.com *.activity.windows.com
+address-object fqdn M365-WAN-Common-account.activedirectory.windowsazure.com account.activedirectory.windowsazure.com
+address-object fqdn M365-WAN-Common-msdn.microsoft.com msdn.microsoft.com
+address-object fqdn M365-WAN-Skype-join.secure.skypeassets.com join.secure.skypeassets.com
+address-object fqdn M365-WAN-Common-*.symcb.com *.symcb.com
+address-object fqdn M365-WAN-Common-*.msauth.net *.msauth.net
+address-object fqdn M365-WAN-Common-*.microsoftusercontent.com *.microsoftusercontent.com
+address-object fqdn M365-WAN-Common-crl4.digicert.com crl4.digicert.com
+address-object fqdn M365-WAN-Common-ajax.aspnetcdn.com ajax.aspnetcdn.com
+address-object fqdn M365-WAN-Common-wus-www.sway-cdn.com wus-www.sway-cdn.com
+address-object fqdn M365-WAN-Common-crl.globalsign.com crl.globalsign.com
+address-object fqdn M365-WAN-SharePoint-*.wns.windows.com *.wns.windows.com
+address-object fqdn M365-WAN-Common-shellprod.msocdn.com shellprod.msocdn.com
+address-object fqdn M365-WAN-Common-go.microsoft.com go.microsoft.com
+address-object fqdn M365-WAN-Common-*.microsoftonline.com *.microsoftonline.com
+address-object fqdn M365-WAN-Common-passwordreset.microsoftonline.com passwordreset.microsoftonline.com
+address-object fqdn M365-WAN-Exchange-smtp.office365.com smtp.office365.com
+address-object fqdn M365-WAN-Common-nexus.microsoftonline-p.com nexus.microsoftonline-p.com
+address-object fqdn M365-WAN-Common-login.microsoft.com login.microsoft.com
+address-object fqdn M365-WAN-Common-*.msftauthimages.net *.msftauthimages.net
+address-object fqdn M365-WAN-Common-*.auth.microsoft.com *.auth.microsoft.com
+address-object fqdn M365-WAN-Common-logincert.microsoftonline.com logincert.microsoftonline.com
+address-object fqdn M365-WAN-Common-*.office.com *.office.com
+address-object fqdn M365-WAN-Common-defender.microsoft.com defender.microsoft.com
+address-object fqdn M365-WAN-Common-ocspx.digicert.com ocspx.digicert.com
+address-object fqdn M365-WAN-Common-www.sway.com www.sway.com
+address-object fqdn M365-WAN-Exchange-*.protection.outlook.com *.protection.outlook.com
+address-object fqdn M365-WAN-Common-officecdn.microsoft.com officecdn.microsoft.com
+address-object fqdn M365-WAN-Common-*.geotrust.com *.geotrust.com
+address-object fqdn M365-WAN-Common-*.office365.com *.office365.com
+address-object fqdn M365-WAN-SharePoint-*.svc.ms *.svc.ms
+address-object fqdn M365-WAN-Skype-teams.cloud.microsoft teams.cloud.microsoft
+address-object fqdn M365-WAN-Common-o15.officeredir.microsoft.com o15.officeredir.microsoft.com
+address-object fqdn M365-WAN-Exchange-*.outlook.com *.outlook.com
+address-object fqdn M365-WAN-Common-www.bing.com www.bing.com
+address-object fqdn M365-WAN-Common-c.bing.net c.bing.net
+address-object fqdn M365-WAN-Exchange-outlook.office365.com outlook.office365.com
+address-object fqdn M365-WAN-Common-accounts.accesscontrol.windows.net accounts.accesscontrol.windows.net
+address-object fqdn M365-WAN-Common-*.microsoft.com *.microsoft.com
+address-object fqdn M365-WAN-Common-becws.microsoftonline.com becws.microsoftonline.com
+address-object fqdn M365-WAN-Common-*.assets-yammer.com *.assets-yammer.com
+address-object fqdn M365-WAN-Common-docs.microsoft.com docs.microsoft.com
+address-object fqdn M365-WAN-Common-login.windows.net login.windows.net
+address-object fqdn M365-WAN-Common-*.public-trust.com *.public-trust.com
+address-object fqdn M365-WAN-Common-graph.windows.net graph.windows.net
+address-object fqdn M365-WAN-Common-*.events.data.microsoft.com *.events.data.microsoft.com
+address-object fqdn M365-WAN-Common-prod.msocdn.com prod.msocdn.com
+address-object fqdn M365-WAN-Common-*.aadrm.com *.aadrm.com
+address-object fqdn M365-WAN-Common-informationprotection.hosting.portal.azure.net informationprotection.hosting.portal.azure.net
+address-object fqdn M365-WAN-Common-crl3.digicert.com crl3.digicert.com
+address-object fqdn M365-WAN-Common-ccs.login.microsoftonline.com ccs.login.microsoftonline.com
+address-object fqdn M365-WAN-Common-*.azurerms.com *.azurerms.com
+address-object fqdn M365-WAN-Common-www.acompli.com www.acompli.com
+address-object fqdn M365-WAN-Common-otelrules.azureedge.net otelrules.azureedge.net
+address-object fqdn M365-WAN-Common-*.acompli.net *.acompli.net
+address-object fqdn M365-WAN-Common-*.static.microsoft *.static.microsoft
+address-object fqdn M365-WAN-SharePoint-*.sharepointonline.com *.sharepointonline.com
+address-object fqdn M365-WAN-Common-adminwebservice.microsoftonline.com adminwebservice.microsoftonline.com
+address-object fqdn M365-WAN-Skype-teams.microsoft.com teams.microsoft.com
+address-object fqdn M365-WAN-Common-protection.office.com protection.office.com
+address-object fqdn M365-WAN-Common-ocsp2.globalsign.com ocsp2.globalsign.com
+address-object fqdn M365-WAN-Exchange-autodiscover.*.onmicrosoft.com autodiscover.*.onmicrosoft.com
+address-object fqdn M365-WAN-Common-*.sharepointonline.com *.sharepointonline.com
+address-object fqdn M365-WAN-Common-c.live.com c.live.com
+address-object fqdn M365-WAN-Common-office.live.com office.live.com
+address-object fqdn M365-WAN-Common-ecn.dev.virtualearth.net ecn.dev.virtualearth.net
+address-object fqdn M365-WAN-Common-cdn.uci.officeapps.live.com cdn.uci.officeapps.live.com
+address-object fqdn M365-WAN-Common-*.portal.cloudappsecurity.com *.portal.cloudappsecurity.com
+address-object fqdn M365-WAN-Common-partnerservices.getmicrosoftkey.com partnerservices.getmicrosoftkey.com
+address-object fqdn M365-WAN-Common-activation.sls.microsoft.com activation.sls.microsoft.com
+address-object fqdn M365-WAN-Common-api.passwordreset.microsoftonline.com api.passwordreset.microsoftonline.com
+address-object fqdn M365-WAN-SharePoint-spoprod-a.akamaihd.net spoprod-a.akamaihd.net
+address-object fqdn M365-WAN-Common-ocsp.globalsign.com ocsp.globalsign.com
+address-object fqdn M365-WAN-Common-ocos-office365-s2s.msedge.net ocos-office365-s2s.msedge.net
+address-object fqdn M365-WAN-Common-isrg.trustid.ocsp.identrust.com isrg.trustid.ocsp.identrust.com
+address-object fqdn M365-WAN-Common-*.yammerusercontent.com *.yammerusercontent.com
+address-object fqdn M365-WAN-Skype-adl.windows.com adl.windows.com
+address-object fqdn M365-WAN-Common-*.outlookmobile.com *.outlookmobile.com
+address-object fqdn M365-WAN-Common-enterpriseregistration.windows.net enterpriseregistration.windows.net
+address-object fqdn M365-WAN-Common-graph.microsoft.com graph.microsoft.com
+address-object fqdn M365-WAN-Common-*.officeapps.live.com *.officeapps.live.com
+address-object fqdn M365-WAN-Common-login-us.microsoftonline.com login-us.microsoftonline.com
+address-object fqdn M365-WAN-Common-*.onmicrosoft.com *.onmicrosoft.com
+address-object fqdn M365-WAN-Common-companymanager.microsoftonline.com companymanager.microsoftonline.com
+address-object fqdn M365-WAN-Common-cacerts.digicert.com cacerts.digicert.com
+address-object fqdn M365-WAN-Exchange-*.mx.microsoft *.mx.microsoft
+address-object fqdn M365-WAN-Common-login.live.com login.live.com
+address-object fqdn M365-WAN-Common-*.symcd.com *.symcd.com
+address-object fqdn M365-WAN-Common-oneocsp.microsoft.com oneocsp.microsoft.com
+address-object fqdn M365-WAN-Common-www.onedrive.com www.onedrive.com
+address-object fqdn M365-WAN-Common-crl.globalsign.net crl.globalsign.net
+address-object fqdn M365-WAN-Exchange-outlook.office.com outlook.office.com
+address-object fqdn M365-WAN-Common-*.phonefactor.net *.phonefactor.net
+address-object fqdn M365-WAN-Common-*.powerautomate.com *.powerautomate.com
+address-object fqdn M365-WAN-Common-login.windows-ppe.net login.windows-ppe.net
+address-object fqdn M365-WAN-Common-login.microsoftonline-p.com login.microsoftonline-p.com
+address-object fqdn M365-WAN-Common-compliance.microsoft.com compliance.microsoft.com
+address-object fqdn M365-WAN-Common-*.protection.office.com *.protection.office.com
+address-object fqdn M365-WAN-Common-assets.onestore.ms assets.onestore.ms
+address-object fqdn M365-WAN-SharePoint-storage.live.com storage.live.com
+address-object fqdn M365-WAN-Common-*.o365weve.com *.o365weve.com
+address-object fqdn M365-WAN-Common-www.outlook.com www.outlook.com
+address-object fqdn M365-WAN-Common-*.msidentity.com *.msidentity.com
+address-object fqdn M365-WAN-Common-auth.gfx.ms auth.gfx.ms
+address-object fqdn M365-WAN-Common-*.usercontent.microsoft *.usercontent.microsoft
+address-object fqdn M365-WAN-Common-officeredir.microsoft.com officeredir.microsoft.com
+address-object fqdn M365-WAN-Common-officepreviewredir.microsoft.com officepreviewredir.microsoft.com
+address-object fqdn M365-WAN-Common-*.msftauth.net *.msftauth.net
+address-object fqdn M365-WAN-Skype-*.skype.com *.skype.com
+address-object fqdn M365-WAN-SharePoint-officeclient.microsoft.com officeclient.microsoft.com
+address-object fqdn M365-WAN-Common-security.microsoft.com security.microsoft.com
+address-object fqdn M365-WAN-Common-*.hip.live.com *.hip.live.com
+address-object fqdn M365-WAN-Common-*.entrust.net *.entrust.net
+address-object fqdn M365-WAN-Common-ocsp.msocsp.com ocsp.msocsp.com
+address-object fqdn M365-WAN-Common-dc.services.visualstudio.com dc.services.visualstudio.com
+address-object fqdn M365-WAN-Common-officeclient.microsoft.com officeclient.microsoft.com
+address-object fqdn M365-WAN-Common-secure.globalsign.com secure.globalsign.com
+address-object fqdn M365-WAN-Common-*.msecnd.net *.msecnd.net
+address-object fqdn M365-WAN-Common-*.msocdn.com *.msocdn.com
+address-object fqdn M365-WAN-SharePoint-admin.onedrive.com admin.onedrive.com
+address-object fqdn M365-WAN-Skype-*.lync.com *.lync.com
+address-object fqdn M365-WAN-Common-*.cloud.microsoft *.cloud.microsoft
+address-object fqdn M365-WAN-Common-tse1.mm.bing.net tse1.mm.bing.net
+address-object fqdn M365-WAN-Common-*.omniroot.com *.omniroot.com
+address-object fqdn M365-WAN-SharePoint-*.search.production.apac.trafficmanager.net *.search.production.apac.trafficmanager.net
+address-object fqdn M365-WAN-Common-office15client.microsoft.com office15client.microsoft.com
+address-object fqdn M365-WAN-Common-account.live.com account.live.com
+address-object fqdn M365-WAN-Common-*.azure-apim.net *.azure-apim.net
+address-object fqdn M365-WAN-Skype-*.teams.microsoft.com *.teams.microsoft.com
+address-object fqdn M365-WAN-Common-clientconfig.microsoftonline-p.net clientconfig.microsoftonline-p.net
+address-object fqdn M365-WAN-Common-*.security.microsoft.com *.security.microsoft.com
+address-object fqdn M365-WAN-Skype-*.keydelivery.mediaservices.windows.net *.keydelivery.mediaservices.windows.net
+address-object fqdn M365-WAN-Common-r.office.microsoft.com r.office.microsoft.com
+address-object fqdn M365-WAN-Common-provisioningapi.microsoftonline.com provisioningapi.microsoftonline.com
+address-object fqdn M365-WAN-Common-cdn.odc.officeapps.live.com cdn.odc.officeapps.live.com
+address-object fqdn M365-WAN-Exchange-outlook.cloud.microsoft outlook.cloud.microsoft
+address-object fqdn M365-WAN-Common-*.virtualearth.net *.virtualearth.net
+address-object fqdn M365-WAN-Common-*.verisign.net *.verisign.net
+address-object fqdn M365-WAN-Common-*.online.office.com *.online.office.com
+address-object fqdn M365-WAN-Common-c1.microsoft.com c1.microsoft.com
+address-object fqdn M365-WAN-Common-officecdn.microsoft.com.edgesuite.net officecdn.microsoft.com.edgesuite.net
+address-object fqdn M365-WAN-SharePoint-*.search.production.emea.trafficmanager.net *.search.production.emea.trafficmanager.net
+address-object fqdn M365-WAN-Common-loginex.microsoftonline.com loginex.microsoftonline.com
+address-object fqdn M365-WAN-Common-*.msauthimages.net *.msauthimages.net
+address-object fqdn M365-WAN-Common-*.verisign.com *.verisign.com
+address-object fqdn M365-WAN-Common-technet.microsoft.com technet.microsoft.com
+address-object fqdn M365-WAN-Common-support.microsoft.com support.microsoft.com
+address-group M365-WAN-All-M365-Endpoints
+member M365-WAN-Common-20.190.128.0/18
+member M365-WAN-Common-20.231.128.0/19
+member M365-WAN-Exchange-23.103.160.0/20
+member M365-WAN-Common-52.244.37.168/32
+member M365-WAN-Exchange-40.107.0.0/16
+member M365-WAN-Exchange-13.107.6.152/31
+member M365-WAN-Exchange-204.79.197.215/32
+member M365-WAN-Common-20.20.32.0/19
+member M365-WAN-Skype-52.122.0.0/15
+member M365-WAN-SharePoint-104.146.128.0/17
+member M365-WAN-Common-13.107.9.192/32
+member M365-WAN-SharePoint-52.104.0.0/14
+member M365-WAN-Exchange-131.253.33.215/32
+member M365-WAN-Skype-52.112.0.0/14
+member M365-WAN-Common-13.107.18.15/32
+member M365-WAN-Common-40.126.0.0/18
+member M365-WAN-Exchange-150.171.32.0/22
+member M365-WAN-Exchange-40.92.0.0/15
+member M365-WAN-SharePoint-40.108.128.0/17
+member M365-WAN-Exchange-13.107.18.10/31
+member M365-WAN-Exchange-40.96.0.0/13
+member M365-WAN-Exchange-132.245.0.0/16
+member M365-WAN-SharePoint-150.171.40.0/22
+member M365-WAN-Exchange-40.104.0.0/15
+member M365-WAN-SharePoint-13.107.136.0/22
+member M365-WAN-Common-13.107.140.6/32
+member M365-WAN-Exchange-13.107.128.0/22
+member M365-WAN-Exchange-52.100.0.0/14
+member M365-WAN-Exchange-52.96.0.0/14
+member M365-WAN-Exchange-104.47.0.0/17
+member M365-WAN-Common-52.108.0.0/14
+member M365-WAN-Common-13.107.6.192/32
+member M365-WAN-Common-13.107.6.171/32
+member M365-WAN-Exchange-52.238.78.88/32
+member M365-WAN-Common-appsforoffice.microsoft.com
+member M365-WAN-Common-mem.gfx.ms
+member M365-WAN-Common-crl.microsoft.com
+member M365-WAN-Common-eus-www.sway-extensions.com
+member M365-WAN-SharePoint-oneclient.sfx.ms
+member M365-WAN-SharePoint-g.live.com
+member M365-WAN-Common-*.powerapps.com
+member M365-WAN-Common-autologon.microsoftazuread-sso.com
+member M365-WAN-Common-*.appex.bing.com
+member M365-WAN-Common-wus-www.sway-extensions.com
+member M365-WAN-Common-device.login.microsoftonline.com
+member M365-WAN-Common-officeapps.live.com
+member M365-WAN-Common-*.onenote.com
+member M365-WAN-Common-www.digicert.com
+member M365-WAN-Common-*.informationprotection.azure.com
+member M365-WAN-Common-*.microsoftonline-p.com
+member M365-WAN-Common-amp.azure.net
+member M365-WAN-Common-dgps.support.microsoft.com
+member M365-WAN-Common-crl.identrust.com
+member M365-WAN-Skype-mlccdnprod.azureedge.net
+member M365-WAN-Common-activity.windows.com
+member M365-WAN-SharePoint-*.sharepoint.com
+member M365-WAN-Common-*.msftidentity.com
+member M365-WAN-Common-signup.live.com
+member M365-WAN-Common-www.microsoft365.com
+member M365-WAN-Common-admin.microsoft.com
+member M365-WAN-Common-c.bing.com
+member M365-WAN-Skype-*.teams.cloud.microsoft
+member M365-WAN-Common-ocsp.digicert.com
+member M365-WAN-Common-apis.live.net
+member M365-WAN-Common-*.office.net
+member M365-WAN-Common-mscrl.microsoft.com
+member M365-WAN-Common-www.microsoft.com
+member M365-WAN-Common-*.yammer.com
+member M365-WAN-Common-sway.com
+member M365-WAN-Common-login.microsoftonline.com
+member M365-WAN-Exchange-*.mail.protection.outlook.com
+member M365-WAN-Common-purview.microsoft.com
+member M365-WAN-Common-*.appex-rf.msn.com
+member M365-WAN-Common-cert.int-x3.letsencrypt.org
+member M365-WAN-Common-officespeech.platform.bing.com
+member M365-WAN-Common-*.flow.microsoft.com
+member M365-WAN-SharePoint-*.search.production.us.trafficmanager.net
+member M365-WAN-Skype-*.streaming.mediaservices.windows.net
+member M365-WAN-Common-*.cortana.ai
+member M365-WAN-Common-*cdn.onenote.net
+member M365-WAN-Common-*.aria.microsoft.com
+member M365-WAN-Common-eus-www.sway-cdn.com
+member M365-WAN-Common-platform.linkedin.com
+member M365-WAN-Skype-aka.ms
+member M365-WAN-Common-*.activity.windows.com
+member M365-WAN-Common-account.activedirectory.windowsazure.com
+member M365-WAN-Common-msdn.microsoft.com
+member M365-WAN-Skype-join.secure.skypeassets.com
+member M365-WAN-Common-*.symcb.com
+member M365-WAN-Common-*.msauth.net
+member M365-WAN-Common-*.microsoftusercontent.com
+member M365-WAN-Common-crl4.digicert.com
+member M365-WAN-Common-ajax.aspnetcdn.com
+member M365-WAN-Common-wus-www.sway-cdn.com
+member M365-WAN-Common-crl.globalsign.com
+member M365-WAN-SharePoint-*.wns.windows.com
+member M365-WAN-Common-shellprod.msocdn.com
+member M365-WAN-Common-go.microsoft.com
+member M365-WAN-Common-*.microsoftonline.com
+member M365-WAN-Common-passwordreset.microsoftonline.com
+member M365-WAN-Exchange-smtp.office365.com
+member M365-WAN-Common-nexus.microsoftonline-p.com
+member M365-WAN-Common-login.microsoft.com
+member M365-WAN-Common-*.msftauthimages.net
+member M365-WAN-Common-*.auth.microsoft.com
+member M365-WAN-Common-logincert.microsoftonline.com
+member M365-WAN-Common-*.office.com
+member M365-WAN-Common-defender.microsoft.com
+member M365-WAN-Common-ocspx.digicert.com
+member M365-WAN-Common-www.sway.com
+member M365-WAN-Exchange-*.protection.outlook.com
+member M365-WAN-Common-officecdn.microsoft.com
+member M365-WAN-Common-*.geotrust.com
+member M365-WAN-Common-*.office365.com
+member M365-WAN-SharePoint-*.svc.ms
+member M365-WAN-Skype-teams.cloud.microsoft
+member M365-WAN-Common-o15.officeredir.microsoft.com
+member M365-WAN-Exchange-*.outlook.com
+member M365-WAN-Common-www.bing.com
+member M365-WAN-Common-c.bing.net
+member M365-WAN-Exchange-outlook.office365.com
+member M365-WAN-Common-accounts.accesscontrol.windows.net
+member M365-WAN-Common-*.microsoft.com
+member M365-WAN-Common-becws.microsoftonline.com
+member M365-WAN-Common-*.assets-yammer.com
+member M365-WAN-Common-docs.microsoft.com
+member M365-WAN-Common-login.windows.net
+member M365-WAN-Common-*.public-trust.com
+member M365-WAN-Common-graph.windows.net
+member M365-WAN-Common-*.events.data.microsoft.com
+member M365-WAN-Common-prod.msocdn.com
+member M365-WAN-Common-*.aadrm.com
+member M365-WAN-Common-informationprotection.hosting.portal.azure.net
+member M365-WAN-Common-crl3.digicert.com
+member M365-WAN-Common-ccs.login.microsoftonline.com
+member M365-WAN-Common-*.azurerms.com
+member M365-WAN-Common-www.acompli.com
+member M365-WAN-Common-otelrules.azureedge.net
+member M365-WAN-Common-*.acompli.net
+member M365-WAN-Common-*.static.microsoft
+member M365-WAN-SharePoint-*.sharepointonline.com
+member M365-WAN-Common-adminwebservice.microsoftonline.com
+member M365-WAN-Skype-teams.microsoft.com
+member M365-WAN-Common-protection.office.com
+member M365-WAN-Common-ocsp2.globalsign.com
+member M365-WAN-Exchange-autodiscover.*.onmicrosoft.com
+member M365-WAN-Common-*.sharepointonline.com
+member M365-WAN-Common-c.live.com
+member M365-WAN-Common-office.live.com
+member M365-WAN-Common-ecn.dev.virtualearth.net
+member M365-WAN-Common-cdn.uci.officeapps.live.com
+member M365-WAN-Common-*.portal.cloudappsecurity.com
+member M365-WAN-Common-partnerservices.getmicrosoftkey.com
+member M365-WAN-Common-activation.sls.microsoft.com
+member M365-WAN-Common-api.passwordreset.microsoftonline.com
+member M365-WAN-SharePoint-spoprod-a.akamaihd.net
+member M365-WAN-Common-ocsp.globalsign.com
+member M365-WAN-Common-ocos-office365-s2s.msedge.net
+member M365-WAN-Common-isrg.trustid.ocsp.identrust.com
+member M365-WAN-Common-*.yammerusercontent.com
+member M365-WAN-Skype-adl.windows.com
+member M365-WAN-Common-*.outlookmobile.com
+member M365-WAN-Common-enterpriseregistration.windows.net
+member M365-WAN-Common-graph.microsoft.com
+member M365-WAN-Common-*.officeapps.live.com
+member M365-WAN-Common-login-us.microsoftonline.com
+member M365-WAN-Common-*.onmicrosoft.com
+member M365-WAN-Common-companymanager.microsoftonline.com
+member M365-WAN-Common-cacerts.digicert.com
+member M365-WAN-Exchange-*.mx.microsoft
+member M365-WAN-Common-login.live.com
+member M365-WAN-Common-*.symcd.com
+member M365-WAN-Common-oneocsp.microsoft.com
+member M365-WAN-Common-www.onedrive.com
+member M365-WAN-Common-crl.globalsign.net
+member M365-WAN-Exchange-outlook.office.com
+member M365-WAN-Common-*.phonefactor.net
+member M365-WAN-Common-*.powerautomate.com
+member M365-WAN-Common-login.windows-ppe.net
+member M365-WAN-Common-login.microsoftonline-p.com
+member M365-WAN-Common-compliance.microsoft.com
+member M365-WAN-Common-*.protection.office.com
+member M365-WAN-Common-assets.onestore.ms
+member M365-WAN-SharePoint-storage.live.com
+member M365-WAN-Common-*.o365weve.com
+member M365-WAN-Common-www.outlook.com
+member M365-WAN-Common-*.msidentity.com
+member M365-WAN-Common-auth.gfx.ms
+member M365-WAN-Common-*.usercontent.microsoft
+member M365-WAN-Common-officeredir.microsoft.com
+member M365-WAN-Common-officepreviewredir.microsoft.com
+member M365-WAN-Common-*.msftauth.net
+member M365-WAN-Skype-*.skype.com
+member M365-WAN-SharePoint-officeclient.microsoft.com
+member M365-WAN-Common-security.microsoft.com
+member M365-WAN-Common-*.hip.live.com
+member M365-WAN-Common-*.entrust.net
+member M365-WAN-Common-ocsp.msocsp.com
+member M365-WAN-Common-dc.services.visualstudio.com
+member M365-WAN-Common-officeclient.microsoft.com
+member M365-WAN-Common-secure.globalsign.com
+member M365-WAN-Common-*.msecnd.net
+member M365-WAN-Common-*.msocdn.com
+member M365-WAN-SharePoint-admin.onedrive.com
+member M365-WAN-Skype-*.lync.com
+member M365-WAN-Common-*.cloud.microsoft
+member M365-WAN-Common-tse1.mm.bing.net
+member M365-WAN-Common-*.omniroot.com
+member M365-WAN-SharePoint-*.search.production.apac.trafficmanager.net
+member M365-WAN-Common-office15client.microsoft.com
+member M365-WAN-Common-account.live.com
+member M365-WAN-Common-*.azure-apim.net
+member M365-WAN-Skype-*.teams.microsoft.com
+member M365-WAN-Common-clientconfig.microsoftonline-p.net
+member M365-WAN-Common-*.security.microsoft.com
+member M365-WAN-Skype-*.keydelivery.mediaservices.windows.net
+member M365-WAN-Common-r.office.microsoft.com
+member M365-WAN-Common-provisioningapi.microsoftonline.com
+member M365-WAN-Common-cdn.odc.officeapps.live.com
+member M365-WAN-Exchange-outlook.cloud.microsoft
+member M365-WAN-Common-*.virtualearth.net
+member M365-WAN-Common-*.verisign.net
+member M365-WAN-Common-*.online.office.com
+member M365-WAN-Common-c1.microsoft.com
+member M365-WAN-Common-officecdn.microsoft.com.edgesuite.net
+member M365-WAN-SharePoint-*.search.production.emea.trafficmanager.net
+member M365-WAN-Common-loginex.microsoftonline.com
+member M365-WAN-Common-*.msauthimages.net
+member M365-WAN-Common-*.verisign.com
+member M365-WAN-Common-technet.microsoft.com
+member M365-WAN-Common-support.microsoft.com
