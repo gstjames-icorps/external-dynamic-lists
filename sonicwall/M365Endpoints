@@ -105,7 +105,8 @@
 *.wns.windows.com
 *.yammer.com
 *.yammerusercontent.com
-*cdn.onenote.net
+cdn.onenote.net
+*.onenote.net
 account.activedirectory.windowsazure.com
 account.live.com
 accounts.accesscontrol.windows.net
